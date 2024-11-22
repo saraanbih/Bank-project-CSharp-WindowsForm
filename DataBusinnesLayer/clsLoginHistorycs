@@ -1,0 +1,44 @@
+﻿using DataAccessLayer;
+using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DataBusinessLayer
+{
+    public class clsLoginRegister
+    {
+        public int ID { get; set; }
+        public DateTime LoginDateTime { get; set; }
+        public string UserName { get; set; }
+        public string Password { get; set; }
+        public int Permissions { get; set; }
+
+        public clsLoginRegister() 
+        {
+            ID = -1;
+            LoginDateTime = DateTime.Now;
+            UserName = "";
+            Password = "";
+            Permissions = 0;
+        }
+      
+        clsLoginRegister(int id,DateTime dateTime,string Username,string password,int permissions)
+        {
+            ID = id;
+            LoginDateTime = dateTime;
+            UserName = Username;
+            Password = password;
+            Permissions = permissions;
+        }
+
+        public static DataTable GetLoginHistory()
+        {
+            return clsLoginHistoryDataAccess.GetLoginHistory();
+        }
+
+
+    }
+}

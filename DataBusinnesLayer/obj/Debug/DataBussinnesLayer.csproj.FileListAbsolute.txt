@@ -1,0 +1,11 @@
+C:\Users\AS\Desktop\Projects\DataBusinnesLayer\bin\Debug\DataBusinnesLayer.exe.config
+C:\Users\AS\Desktop\Projects\DataBusinnesLayer\bin\Debug\DataBusinnesLayer.exe
+C:\Users\AS\Desktop\Projects\DataBusinnesLayer\bin\Debug\DataBusinnesLayer.pdb
+C:\Users\AS\Desktop\Projects\DataBusinnesLayer\bin\Debug\DataAccessLayer.exe
+C:\Users\AS\Desktop\Projects\DataBusinnesLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\AS\Desktop\Projects\DataBusinnesLayer\bin\Debug\DataAccessLayer.exe.config
+C:\Users\AS\Desktop\Projects\DataBusinnesLayer\obj\Debug\DataBussinnesLayer.csproj.AssemblyReference.cache
+C:\Users\AS\Desktop\Projects\DataBusinnesLayer\obj\Debug\DataBussinnesLayer.csproj.CoreCompileInputs.cache
+C:\Users\AS\Desktop\Projects\DataBusinnesLayer\obj\Debug\DataBuss.98FBEC86.Up2Date
+C:\Users\AS\Desktop\Projects\DataBusinnesLayer\obj\Debug\DataBusinnesLayer.exe
+C:\Users\AS\Desktop\Projects\DataBusinnesLayer\obj\Debug\DataBusinnesLayer.pdb
