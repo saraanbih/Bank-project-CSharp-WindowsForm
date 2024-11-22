@@ -97,7 +97,7 @@ The application includes the following main functionalities:
 ### **🚀 Steps to Run the Project**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/saraanbih/Bank-project-CSharp-WindowsForm/tree/master.git
+   git clone https://github.com/saraanbih/Bank-project-CSharp-WindowsForm.git
    ```
 2. Open the solution file (`BankManagementSystem.sln`) in Visual Studio.
 3. Set up the database:
@@ -131,6 +131,6 @@ Add screenshots of your application here for better visualization:
 For questions, feedback, or collaboration opportunities, feel free to reach out:
 
 - 📧 **Email**: [nabihsara8@gmail.com]
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/)
-- ✈️ **Twitter**: [Your Twitter Handle](https://twitter.com/)
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/sara-nabih-4168212a3/]
+- ✈️ **Telegram**: [https://t.me/Sara_Nabih]
 
