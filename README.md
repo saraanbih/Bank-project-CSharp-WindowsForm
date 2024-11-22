@@ -133,7 +133,7 @@ Add screenshots of your application here for better visualization:
   
   ![Transfer Log](https://github.com/user-attachments/assets/06dbfc52-0f0e-4d9e-8a84-62fcb626976f)
 
-  - **👥 Manage Users Form**
+- **👥 Manage Users Form**
     ![Manage Users](https://github.com/user-attachments/assets/efd249df-9c7d-46b5-a0dc-cf9cb5a632d8)
     
     ![AddUser](https://github.com/user-attachments/assets/75b4d6f4-dae3-4dd1-88b8-c416910a13f0)
