@@ -112,7 +112,7 @@ The application includes the following main functionalities:
 ## **📸 Screenshots**
 
 - **🔑 Login Screen**
-  ![Screenshot 2024-11-22 080633](https://github.com/user-attachments/assets/d53f5b58-052d-4463-8dc6-ab36285b50fb)
+   ![Screenshot 2024-11-22 080633](https://github.com/user-attachments/assets/d53f5b58-052d-4463-8dc6-ab36285b50fb)
 
 - **🏠 Home Dashboard**
   ![Screenshot 2024-11-22 080538](https://github.com/user-attachments/assets/71e1c190-7405-43c4-9da6-972af79214f4)
