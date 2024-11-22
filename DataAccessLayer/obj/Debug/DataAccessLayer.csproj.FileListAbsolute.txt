@@ -1,0 +1,14 @@
+C:\Users\AS\Desktop\Projects\DataAccessLayer\bin\Debug\DataAccessLayer.exe.config
+C:\Users\AS\Desktop\Projects\DataAccessLayer\bin\Debug\DataAccessLayer.exe
+C:\Users\AS\Desktop\Projects\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\AS\Desktop\Projects\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\AS\Desktop\Projects\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\AS\Desktop\Projects\DataAccessLayer\obj\Debug\DataAccessLayer.exe
+C:\Users\AS\Desktop\Projects\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Projects\DataAccessLayer\bin\Debug\DataAccessLayer.exe.config
+D:\Projects\DataAccessLayer\bin\Debug\DataAccessLayer.exe
+D:\Projects\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Projects\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Projects\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Projects\DataAccessLayer\obj\Debug\DataAccessLayer.exe
+D:\Projects\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
