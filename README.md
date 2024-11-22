@@ -112,10 +112,10 @@ The application includes the following main functionalities:
 ## **📸 Screenshots**
 Add screenshots of your application here for better visualization:
 - **🔑 Login Screen**
-- ![Screenshot 2024-11-22 080633](https://github.com/user-attachments/assets/d53f5b58-052d-4463-8dc6-ab36285b50fb)
+  ![Screenshot 2024-11-22 080633](https://github.com/user-attachments/assets/d53f5b58-052d-4463-8dc6-ab36285b50fb)
 
 - **🏠 Home Dashboard**
-- ![Screenshot 2024-11-22 080538](https://github.com/user-attachments/assets/71e1c190-7405-43c4-9da6-972af79214f4)
+  ![Screenshot 2024-11-22 080538](https://github.com/user-attachments/assets/71e1c190-7405-43c4-9da6-972af79214f4)
 
 - **👥 Manage Clients Form**
   ![Screenshot 2024-11-22 080726](https://github.com/user-attachments/assets/15ce97ca-47b8-41b8-aa2d-38b6ce371692)
