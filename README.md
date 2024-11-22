@@ -110,7 +110,7 @@ The application includes the following main functionalities:
 ---
 
 ## **📸 Screenshots**
-Add screenshots of your application here for better visualization:
+
 - **🔑 Login Screen**
   ![Screenshot 2024-11-22 080633](https://github.com/user-attachments/assets/d53f5b58-052d-4463-8dc6-ab36285b50fb)
 
