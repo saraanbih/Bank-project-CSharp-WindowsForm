@@ -112,11 +112,26 @@ The application includes the following main functionalities:
 ## **📸 Screenshots**
 Add screenshots of your application here for better visualization:
 - **🔑 Login Screen**
+- ![Screenshot 2024-11-22 080633](https://github.com/user-attachments/assets/d53f5b58-052d-4463-8dc6-ab36285b50fb)
+
 - **🏠 Home Dashboard**
+- ![Screenshot 2024-11-22 080538](https://github.com/user-attachments/assets/71e1c190-7405-43c4-9da6-972af79214f4)
+
 - **👥 Manage Clients Form**
+- ![Screenshot 2024-11-22 080726](https://github.com/user-attachments/assets/15ce97ca-47b8-41b8-aa2d-38b6ce371692)
+- ![Screenshot 2024-11-22 080817](https://github.com/user-attachments/assets/5e1f513d-34f7-40f6-adea-374f11c4da0c)
+
 - **💵 Transactions Form**
+- ![Transactions](https://github.com/user-attachments/assets/09aa2d29-f40b-4811-9b1f-9d4330fba579)
+- ![Withdraw](https://github.com/user-attachments/assets/e35e3c54-ff9b-499c-8435-7c07d9deaeed)
+- ![Deposit](https://github.com/user-attachments/assets/d53d8434-9b9d-496d-9b83-658a611459eb)
+- ![Transfer](https://github.com/user-attachments/assets/0338a4ea-3aeb-4200-8f43-1b6965117375)
+- ![Transfer Log](https://github.com/user-attachments/assets/06dbfc52-0f0e-4d9e-8a84-62fcb626976f)
+
 - **🌍 Currency Exchange Form**
-- **🕒 Login History Form**
+- ![Currency Exchange](https://github.com/user-attachments/assets/58d9a920-7b53-4947-829c-b732b7e84692)
+- ![Exchange](https://github.com/user-attachments/assets/62780caa-b60d-454a-acbf-f2a0e9cf36df)
+- ![Update Rate](https://github.com/user-attachments/assets/f47bfb2a-6715-4d18-b987-fab8b1e8d749)
 
 ---
 
